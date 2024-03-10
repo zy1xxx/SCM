@@ -1,0 +1,6 @@
+There is an apple tree.
+A hedgehog is under the apple tree.
+The hedgehog is still under the apple tree.
+The hedgehog asks a monkey for help.
+The hedgehog is under the apple tree, and the monkey is on the apple tree.
+The hedgehog and the monkey are eating apples.
